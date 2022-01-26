@@ -1,0 +1,6 @@
+{
+    "name": "framework-arduino-CuriosityNiladriSAME51",
+    "description": "Arduino framework for SAMEJ5120A (Curiosity Niladri)",
+    "url": "https://github.com/rnd-ash/CuriosityNiladriSAME51",
+    "version": "1.0.0"
+}
